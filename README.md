@@ -7,4 +7,4 @@ Here is some cool information about me!
     🔎 Feel free to look through my projects and comment any. I am more than happy to learn!
     📧 If you need to contact me, here is my LinkedIn profile, Elena Garrigós.
 
-Let's code! 
+Take coffe and let's code! 

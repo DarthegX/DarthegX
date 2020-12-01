@@ -1,4 +1,4 @@
-Hey! I'm Elena Garrigos 
+# Hey! I'm Elena Garrigos 
 
 Here is some cool information about me!
 

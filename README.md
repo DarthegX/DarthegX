@@ -1,7 +1,18 @@
-# Hey! I'm Elena 
+<h2> Hi There, I'm Elena! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+I'm a Full Stack Web Developer 🚀 from Spain 🇪🇸, currently working 👨🏻‍💻 at <em><a href="https://www.diapli.com/">Diapli</a></em>.
 
-Here is some cool information about me!
-- 💻 My current tech stack is Angular, Ionic and Express. As well, I am proficient in C# and Java.
-- 📧 If you need to contact me, email me at [elenainternxt@gmail.com](mailto:elenainternxt@gmail.com)
+I'm a passionate learner who loves the code ☕︎. You'll always find me learning something new.
 
-Take coffe and let's code! 🚀
+Beside's programming, I love Techno music, play vinyls and mexican food 🌯.
+
+```javascript
+const elenaGarrigos = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [Angular, Express, Node, Jest],
+  architecture: ["microservices", "event-driven"]
+}
+```
+
+[![Linkedin: ElenaGarrigos](https://img.shields.io/badge/-ElenaGarrigos-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elena-garrig%C3%B3s-003082120/)](https://www.linkedin.com/in/elena-garrig%C3%B3s-003082120/)
+[![Gmail ElenaGarrigos](https://img.shields.io/badge/Gmail-elenacpsafa@gmail.com-red)](mailto:elenacpsafa@gmail.com)

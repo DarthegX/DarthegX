@@ -9,8 +9,8 @@ Beside's programming, I love Techno music, play vinyls and mexican food 🌯.
 const elenaGarrigos = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [Angular, Express, Node, Jest],
-  architecture: ["microservices", "event-driven"]
+  tools: [Angular, Express, Node, Jest, Docker],
+  architecture: ["hexagonal", "microservices", "event-driven"]
 }
 ```
 

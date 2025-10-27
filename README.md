@@ -1,9 +1,9 @@
 <h2> Hi There, I'm Elena! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-I'm a Full Stack Web Developer 🚀 from Spain 🇪🇸, currently working 👨🏻‍💻 at <em><a href="https://www.cubicup.com/">Cubicup</a></em>.
+I'm a Software Engineer 🚀 from Spain 🇪🇸, currently studying 👨🏻‍💻 AI/ML Engineering.
 
 I'm a passionate learner who loves the code ☕︎. You'll always find me learning something new.
 
-Beside's programming, I love Techno music, play vinyls and mexican food 🌯.
+Beside's programming, I love cats, play vinyls and mexican food 🌯.
 
 ```javascript
 const elenaGarrigos = {

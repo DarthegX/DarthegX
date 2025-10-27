@@ -8,8 +8,8 @@ Beside's programming, I love cats, play vinyls and mexican food 🌯.
 ```javascript
 const elenaGarrigos = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Angular, Express, Node, Jest, Docker],
+  code: [Typescript, Python],
+  tools: [Angular, NestJS, GCP, Docker],
   architecture: ["hexagonal", "microservices", "event-driven"]
 }
 ```
